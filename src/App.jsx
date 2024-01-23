@@ -27,7 +27,7 @@ function App() {
 
   return (
     <>
-      <h1>Redux TookKit</h1>
+      <h1>Redux ToolKit</h1>
       <div className="container">
         <div className="form">
           <input placeholder="Enter a word to add" type="text" ref={ref1} />
